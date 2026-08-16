@@ -1,5 +1,23 @@
 [
   {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1786179326.617563,
+    "completed_at": 1786179328.763745,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1786170332.853844,
+    "completed_at": 1786170337.03483,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "grocery-shopping",
     "started_at": 1786076328.462629,
     "completed_at": 1786076332.017943,
@@ -18,55 +36,47 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786169669.154537,
+    "completed_at": 1786169676.598369,
+    "comments": [
+      "You are not ignoring runaway.txt. Find where the file is and fix that.",
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786169875.172693,
+    "completed_at": 1786169882.714187,
+    "comments": [
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786170056.928465,
+    "completed_at": 1786170062.603222,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786090145.561228,
+    "completed_at": 1786090147.938947,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "log-and-order",
     "started_at": 1786087586.915654,
     "completed_at": 1786087589.04343,
     "comments": [],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "stage-fright",
-    "started_at": 1786075608.244534,
-    "completed_at": 1786075610.187896,
-    "comments": [
-      "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1786077101.718127,
-    "completed_at": 1786077103.678501,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1786074181.825511,
-    "completed_at": 1786074183.609833,
-    "comments": [
-      "Exercise is not a Git repository"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1786074237.40876,
-    "completed_at": 1786074239.408113,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "undo-init",
-    "started_at": 1786074423.226668,
-    "completed_at": 1786074425.111775,
-    "comments": [
-      "You have successfully undone the init operation!"
-    ],
     "status": "Completed"
   },
   {
@@ -115,66 +125,29 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "link-me",
-    "started_at": 1786090145.561228,
-    "completed_at": 1786090147.938947,
+    "exercise_name": "sensors-checkout",
+    "started_at": 1786271405.078731,
+    "completed_at": 1786271407.010653,
     "comments": [
-      "Great work with using git remote to add an upstream remote!"
+      "Great work traversing the revision history!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786169669.154537,
-    "completed_at": 1786169676.598369,
+    "exercise_name": "stage-fright",
+    "started_at": 1786075608.244534,
+    "completed_at": 1786075610.187896,
     "comments": [
-      "You are not ignoring runaway.txt. Find where the file is and fix that.",
-      "You have not committed the relevant changes yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786169875.172693,
-    "completed_at": 1786169882.714187,
-    "comments": [
-      "You have not committed the relevant changes yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786170056.928465,
-    "completed_at": 1786170062.603222,
-    "comments": [
-      "Great work using .gitignore!"
+      "Great work! You have successfully checked in all the actors!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "fork-repo",
-    "started_at": 1786170332.853844,
-    "completed_at": 1786170337.03483,
+    "exercise_name": "staging-intervention",
+    "started_at": 1786077101.718127,
+    "completed_at": 1786077103.678501,
     "comments": [
-      "Great work creating a fork with Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1786179326.617563,
-    "completed_at": 1786179328.763745,
-    "comments": [
-      "Great work fetching and pulling different upstreams!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "view-commits",
-    "started_at": 1786207349.950517,
-    "completed_at": 1786207351.923344,
-    "comments": [
-      "Great work in viewing and understanding the diff of a specific commit!"
+      "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
   },
@@ -197,15 +170,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "tags-update",
-    "started_at": 1786211022.928588,
-    "completed_at": 1786211025.118143,
-    "comments": [
-      "Great work! You have successfully updated the tags to point to the correct commits."
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "tags-push",
     "started_at": 1786211285.728731,
     "completed_at": 1786211291.082886,
@@ -224,11 +188,56 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "sensors-checkout",
-    "started_at": 1786271405.078731,
-    "completed_at": 1786271407.010653,
+    "exercise_name": "tags-update",
+    "started_at": 1786211022.928588,
+    "completed_at": 1786211025.118143,
     "comments": [
-      "Great work traversing the revision history!"
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786074181.825511,
+    "completed_at": 1786074183.609833,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786074237.40876,
+    "completed_at": 1786074239.408113,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786074423.226668,
+    "completed_at": 1786074425.111775,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1786207349.950517,
+    "completed_at": 1786207351.923344,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1786860055.870779,
+    "completed_at": 1786860058.379817,
+    "comments": [
+      "You have reset the repository to the correct state!"
     ],
     "status": "Completed"
   }
