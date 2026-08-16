@@ -384,32 +384,5 @@
       "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "mix-messy-graph",
-    "started_at": 1786888161.260618,
-    "completed_at": 1786888166.527999,
-    "comments": [
-      "Contents of 'features.md' is not valid at commit with message 'Add the delete feature'! Try again!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "mix-messy-graph",
-    "started_at": 1786888251.288347,
-    "completed_at": 1786888256.044204,
-    "comments": [
-      "Contents of 'features.md' is not valid at commit with message 'Add the delete feature'! Try again!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "mix-messy-graph",
-    "started_at": 1786888340.985738,
-    "completed_at": 1786888345.2472,
-    "comments": [
-      "Contents of 'features.md' is not valid at commit with message 'Add the delete feature'! Try again!"
-    ],
-    "status": "Incomplete"
   }
 ]
